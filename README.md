@@ -1,6 +1,7 @@
 # Faixa Etaria dos Eleitores da Cidade de SJC
- Esta analise de dados publicos tem como objetivo fazer um comparativo das faixas Etarias dos Eleitores facultativos e obrigatorios cadastrados na cidade de SJC
+Analise de dados publicos tem o objetivo de fazer um comparativo das faixas etarias dos eleitores de SJC e seus  respectivos grau de escolaridade
 
 Integrantes:
  * Aline Cristina Pereira Trofino
  * Rita de Cássia Ferreira   
+ 

@@ -3,5 +3,6 @@ Analise de dados publicos tem o objetivo de fazer um comparativo das faixas etar
 
 Integrantes:
  * Aline Cristina Pereira Trofino
- * Rita de Cássia Ferreira   
+ * Rita de Cássia Ferreira  
+ ! [Faixa Etaria](https://github.com/ferreirarita/Faixa-Etaria-dos-Eleitores-da-Cidade-de-SJC/blob/main/Analise%20de%20Dados%20Eleitorais%20-SJC.ipynb)
  
